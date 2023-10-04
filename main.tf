@@ -9,7 +9,7 @@ terraform {
 
 provider "dcnm" {
   username = "admin"
-  password = "ins3965!"
+  password = "password"
   url      = "https://10.0.223.207"
   insecure = true
   platform = "dcnm"
